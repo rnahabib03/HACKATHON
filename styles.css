@@ -1,0 +1,71 @@
+#begin{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+#sco{
+    color:white;
+    display:flex;
+    justify-content:center;
+    visibility:hidden;
+}
+#warning{
+    display:flex;
+    justify-content:center;
+    padding:25px;
+    border:10px solid blue;
+    margin:20px;
+    color:red;
+    background-color:white;
+    font-size:50px;
+}
+#star{
+    margin-left:500px;
+    margin-right:500px;
+}
+#wh{
+    width:50%;
+    margin-left:400px;
+}
+#2{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+}
+#bo{
+    display:flex;
+    text-align:center;
+}
+#in{
+    color:white;
+}
+#tweet{
+    display:flex;
+    Flex-direction:row;
+    visibility:hidden;
+    justify-content:space-around;
+}
+#score{
+    border:solid 10px gold;
+    color:black;
+    padding:30px;
+    display:flex;
+    justify-content:center;
+    margin-left:500px;
+    margin-right:500px;
+    background-color:white;
+    visibility:hidden;
+    margin-top:100px;
+}
+#f{
+    display:flex;
+    margin-left:450px;
+    margin-right:450px;
+    margin-top:40px;
+}
+#f{
+    visibility:hidden;
+}
+body{
+    background-color:black;
+}
